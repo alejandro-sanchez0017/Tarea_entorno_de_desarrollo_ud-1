@@ -36,4 +36,4 @@ Para completar la tarea, asegúrate de rellenar cada sección con tus propias pa
 * Si es para un repositorio de código (como GitHub), este `README.md` servirá como la presentación de tus archivos de respuestas.
 
 ---
-*Tarea desarrollada para la asignatura de [Nombre de la asignatura / Módulo]*
+*Tarea desarrollada para la asignatura de [Entorno de desarrollo / UD 1]*
