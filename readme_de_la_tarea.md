@@ -1,3 +1,5 @@
+Propietario: alejandro-sanchez0017
+
 Alejandro Sánchez - Compañeros
 
 # Análisis Teórico y Práctico de Conceptos de Programación
